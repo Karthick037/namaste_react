@@ -1,0 +1,22 @@
+{
+  "name": "namaste_react",
+  "version": "1.0.0",
+  "description": "This is namaste react project by Karthick Srinivasan",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Karthick037/namaste_react.git"
+  },
+  "author": "Karthick",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Karthick037/namaste_react/issues"
+  },
+  "homepage": "https://github.com/Karthick037/namaste_react#readme",
+  "devDependencies": {
+    "parcel": "^2.12.0"
+  }
+}
